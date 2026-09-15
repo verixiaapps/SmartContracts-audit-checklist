@@ -359,4 +359,6 @@ I've mentioned here some public audits reports for learn audits. So, lets enjoy 
 - [How to become a smart contract auditor | The complete roadmap 2023](https://www.cyfrin.io/blog/how-to-become-a-smart-contract-auditor)
 - [Greate Resources by cyfrin | 2023 ](https://www.cyfrin.io/blog)
 - [All ctf poc writen using Foundery | ctf-blockchain)](https://github.com/minaminao/ctf-blockchain)
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 
